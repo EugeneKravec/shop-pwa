@@ -1,0 +1,12 @@
+.currency {
+    margin-left: 385px;
+    width: 30px;
+    height: 30px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.border {
+    border: none;
+}

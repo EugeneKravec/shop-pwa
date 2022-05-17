@@ -1,0 +1,36 @@
+.active {
+    position: relative;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+
+    color: #5ECE7B;
+    text-decoration-line: unset;
+    padding: 0 7px 0 7px;
+    text-transform: uppercase;
+}
+
+.active::after {
+    display: block;
+    position: absolute;
+
+    content: "";
+    width: 100%;
+    height: 2px;
+    margin-top: 28px;
+    background: #5ECE7B;
+    border-radius: 2px;
+}
+
+.links {
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+
+    color: #1D1F22;
+    text-decoration-line: unset;
+    margin-left: 32px;
+}
