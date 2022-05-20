@@ -1,6 +1,7 @@
 .container {
     display: flex;
     flex-direction: column;
+    width: 300px;
     padding: 70px 0 0 75px;
 }
 
@@ -26,10 +27,9 @@
     line-height: 27px;
 }
 
-/* .filterContainer {
-    padding-bottom: 50px;
-    background-color: blue;
-} */
+.filterContainer {
+    margin-top: 43px;
+}
 
 .filterList {
     display: flex;

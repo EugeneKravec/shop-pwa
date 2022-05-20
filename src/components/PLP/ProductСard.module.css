@@ -15,6 +15,25 @@
     box-shadow: 0px 4px 35px rgba(168, 172, 176, 0.19);
 }
 
+/* .overlay {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transform: translateY(100%);
+    background: rgba(33, 150, 243, 0.9);
+}
+
+.link:hover .overlay,
+.link:focus .overlay {
+    opacity: 1;
+    transform: translateY(0);
+    transition-duration: 250ms;
+} */
+
 .item {
     padding: 16px;
     margin-bottom: 60px;
