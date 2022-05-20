@@ -15,62 +15,62 @@ class ProductСard extends PureComponent {
                             </div>
                             <div>
                                 <h3 className={styles.text}>Apollo Running Short</h3>
-                                <p>$50.00</p>
+                                <p className={styles.price}>$50.00</p>
                             </div>
                         </Link>
                     </li>
                     <li className={styles.item}>
-                        <Link to="/PDP">
+                        <Link className={styles.link} to="/PDP">
                             <div>
-                                <img src={switer} alt="switer" className={styles.img} />
+                                <img src={switer} alt="switer" width="354" />
                             </div>
                             <div>
-                                <h3>Apollo Running Short</h3>
-                                <p>$50.00</p>
-                            </div>
-                        </Link>
-                    </li>
-                    <li className={styles.item}>
-                        <Link to="/PDP">
-                            <div>
-                                <img src={switer} alt="switer" className={styles.img} />
-                            </div>
-                            <div>
-                                <h3>Apollo Running Short</h3>
-                                <p>$50.00</p>
+                                <h3 className={styles.text}>Apollo Running Short</h3>
+                                <p className={styles.price}>$50.00</p>
                             </div>
                         </Link>
                     </li>
                     <li className={styles.item}>
-                        <Link to="/PDP">
+                        <Link className={styles.link} to="/PDP">
                             <div>
-                                <img src={switer} alt="switer" className={styles.img} />
+                                <img src={switer} alt="switer" width="354" />
                             </div>
                             <div>
-                                <h3>Apollo Running Short</h3>
-                                <p>$50.00</p>
-                            </div>
-                        </Link>
-                    </li>
-                    <li className={styles.item}>
-                        <Link to="/PDP">
-                            <div>
-                                <img src={switer} alt="switer" className={styles.img} />
-                            </div>
-                            <div>
-                                <h3>Apollo Running Short</h3>
-                                <p>$50.00</p>
+                                <h3 className={styles.text}>Apollo Running Short</h3>
+                                <p className={styles.price}>$50.00</p>
                             </div>
                         </Link>
                     </li>
                     <li className={styles.item}>
-                        <Link to="/PDP">
+                        <Link className={styles.link} to="/PDP">
                             <div>
-                                <img src={switer} alt="switer" className={styles.img} />
+                                <img src={switer} alt="switer" width="354" />
                             </div>
                             <div>
-                                <h3>Apollo Running Short</h3>
-                                <p>$50.00</p>
+                                <h3 className={styles.text}>Apollo Running Short</h3>
+                                <p className={styles.price}>$50.00</p>
+                            </div>
+                        </Link>
+                    </li>
+                    <li className={styles.item}>
+                        <Link className={styles.link} to="/PDP">
+                            <div>
+                                <img src={switer} alt="switer" width="354" />
+                            </div>
+                            <div>
+                                <h3 className={styles.text}>Apollo Running Short</h3>
+                                <p className={styles.price}>$50.00</p>
+                            </div>
+                        </Link>
+                    </li>
+                    <li className={styles.item}>
+                        <Link className={styles.link} to="/PDP">
+                            <div>
+                                <img src={switer} alt="switer" width="354" />
+                            </div>
+                            <div>
+                                <h3 className={styles.text}>Apollo Running Short</h3>
+                                <p className={styles.price}>$50.00</p>
                             </div>
                         </Link>
                     </li>
